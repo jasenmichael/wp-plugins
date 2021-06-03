@@ -1,4 +1,4 @@
 **/**
 !dist/.gitkeep
-!dist/*.zip
+!dist/**.zip
 !.gitignore
